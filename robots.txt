@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /archive/
+
+# === Sitemaps (always www version) ===
+Sitemap: https://www.hornimpex.com/sitemap/sitemap-static.xml
+Sitemap: https://www.hornimpex.com/sitemap/sitemap-product-categories.xml
+Sitemap: https://www.hornimpex.com/sitemap/sitemap-country-categories.xml
+Sitemap: https://www.hornimpex.com/sitemap/sitemap-products.xml
+Sitemap: https://www.hornimpex.com/sitemap/sitemap-product-markets.xml
+Sitemap: https://www.hornimpex.com/sitemap/sitemap-blog-categories.xml
+Sitemap: https://www.hornimpex.com/sitemap/sitemap-blogs.xml
